@@ -6,3 +6,7 @@
 - [Quanto dinheiro sua empresa jogou fora em 2016?](https://coworkingbrasil.org/news/cultura-coworking-empresa/)
 - [Trabalho remoto Sim, existe Sim, funciona; por Diana Ungaro 7Masters Startup](https://github.com/vicainelli/HomeOffice)
 - [If you can't trust your employees to work flexibly, why hire them in the first place?](https://www.linkedin.com/pulse/you-cant-trust-your-employees-work-flexibly-why-hire-them-henderson?trk=v-feed&lipi=urn:li:page:d_flagship3_feed;NtX4QWJrdZC3BsiR8RxzxA%3D%3D)
+
+
+### interviews help
+- [https://github.com/kdn251/interviews](https://github.com/kdn251/interviews)
